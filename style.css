@@ -1,0 +1,28 @@
+h1{
+    color: chartreuse;
+}
+
+*{
+    border: solid;
+    text-align: center;
+}
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    background-color: lightcoral;
+    text-align: center;
+}
+
+ul{
+    background-color: cornflowerblue;
+}
+
+i{
+    background-color: gold;
+}
+
